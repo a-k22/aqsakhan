@@ -1,0 +1,66 @@
+body{
+
+font-family: Arial, Helvetica, sans-serif;
+margin: 0;
+padding: 0;
+background-color: #f4f4f4;
+color: #333;
+line-height: 1.6;
+}
+
+header{
+background-color: #333;
+text-color:white;
+padding: 0px 0;
+text-align: right;
+
+.nav ul{
+text-decoration:overline;
+text-align: right;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: medium;
+
+}
+
+.hero p{
+
+    font-size: 1.2em;
+    margin-bottom: 30px;
+}
+
+.cta-button:hover{
+
+    background-color: #0056b3;
+}
+.features{
+    padding: 40px 20px;
+    text-align: center;
+}
+
+feature h2{
+
+    margin-bottom: 20px;
+    font-size: 2em;
+}
+.features-item{
+
+
+
+    margin-bottom: 20px;
+
+}
+.features-item h3 {
+font-size: 1.5em;
+margin-bottom: 10px;
+}
+.footer{
+
+    background-color: #333;
+    color: #fff;text-align: center;
+    padding: 20px 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+
+}
+}
